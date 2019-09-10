@@ -16,22 +16,8 @@ cd emlid-docs
 pipenv install
 ```
 
-
-
 # Editing docs with templates
 
-
-## Updating docs after editing templates (Generating markdown)
-
-Template building script takes path to .yml file as an argument and rebuilds docs from every template specified in .yml.
-*This should be run after making any changes to templates.*
-```bash
-cd emlid-docs
-pipenv run python build.py <target>
-# Where <target> is .yml config file.
-# example
-pipenv run python build.py reachm-plus.yml 
-```
 ## Adding new templates
 
 To add new template you need to create a jinja2 template in **emlid-docs/docs/templates/** with .mdx extension and add an entry to "templates" section of one or several .yml config files in following format. 
@@ -47,6 +33,17 @@ And template_name name is the name of the actual template file with .mdx extensi
 
 **Without these entries template will be ignored.**
 
+## Updating docs after editing templates (Generating markdown)
+
+Template building script takes path to .yml file as an argument and rebuilds docs from every template specified in .yml.
+*This should be run after making any changes to templates.*
+```bash
+cd emlid-docs
+pipenv run python build.py <target>
+# Where <target> is .yml config file.
+# example
+pipenv run python build.py reachm-plus.yml 
+```
 # Generating HTML
 
 ```bash
