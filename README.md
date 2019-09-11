@@ -20,12 +20,12 @@ pipenv install
 
 ## Adding new templates
 
-To add new template you need to create a jinja2 template in **emlid-docs/docs/templates/** with .mdx extension and add an entry to "templates" section of one or several .yml config files in following format. 
+To add new template you need to create a jinja2 template in **emlid-docs/docs/templates/** with .mdx extension and add an entry to 'templates' section of one or several .yml config files in following format. 
 ```yaml
 templates:  # <- this should already be in the file
     destination: '<template-name.mdx>'
-    index.md: "index.mdx"
-    power-supply.md: "power-supply.mdx"
+    index.md: 'index.mdx'
+    power-supply.md: 'power-supply.mdx'
 ```
 Where destination is the name of the file in **docs_dir** (docs_dir is specified in each .yml file) directory, that is going to be rendered via template.
 
