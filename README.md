@@ -35,7 +35,7 @@ And template_name name is the name of the actual template file with .mdx extensi
 
 ## Updating docs after editing templates (Generating markdown)
 
-Template building script takes path to .yml file as an argument and rebuilds docs from every template specified in .yml.
+Template building script takes the path to .yml file as an argument and rebuilds docs from every template specified in .yml.
 *This should be run after making any changes to templates.*
 ```bash
 cd emlid-docs
