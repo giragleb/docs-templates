@@ -1,38 +1,28 @@
-!!! tip ""
-	Reach has been replaced with [Reach M+](https://emlid.com/reach). Documentation for Reach M+ can be found [here](https://docs.emlid.com/reachm-plus/).
+Welcome to your Emlid Reach RTK!
 
-<div style="text-align: center;"><img src="img/reach/Reach_400x400-400x380.png" style="width: 350px;"></div><br>
+  [![](img//quickstart.png){: style="width: 200px;"}](quickstart.md)
+  [![](img//tutorials.png){: style="width: 200px;"}](tutorials.md)
+  [![](img//reachview.png){: style="width: 200px;"}](common/reachview)
 
-### Reach RTK kit
+  [![](img//placement.png){: style="width: 200px;"}](placement.md)
+  [![](img//power-supply.png){: style="width: 200px;"}](power-supply.md)
+  [![](img//specs.png){: style="width: 200px;"}](specs.md)
 
-Reach RTK kit includes the following:
+## Package contents
 
-* 2x Reach RTK module
+In the box:
 
-* 2x Tallysman TW4721 antenna with adhesive mount
+2x Reach RTK module
 
-* 2x DF13 <-> DF13 straight cable
+2x Tallysman TW4721 antenna with adhesive mount
 
-* 2x DF13 <-> jumper wires cable
+2x DF13 <-> DF13 straight cable
 
-* 2x Micro-USB <-> USB cable
+2x DF13 <-> jumper wires cable
 
-* 2x Micro-USB <-> USB-F OTG cable
+2x Micro-USB <-> USB cable
 
-### Standalone Reach unit
-
-Standalone Reach units come with the following:
-
-* Reach RTK module
-
-* DF13 <-> DF13 straight cable
-
-* DF13 <-> jumper wires cable
-
-* Micro-USB <-> USB cable
-
-* Micro-USB <-> USB-F OTG cable
-
+2x Micro-USB <-> USB-F OTG cable
 
 ### Collaboration
 

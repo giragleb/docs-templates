@@ -96,4 +96,6 @@ standalone:
         - 'Micro-USB <-> USB cable'
         - 'Micro-USB <-> USB-F OTG cable'
 templates:
+         index.md: 'index.mdx'
          power-supply.md: 'power-supply.mdx'
+         common/reachview/rtk-settings.md: 'rtk-settings.mdx'

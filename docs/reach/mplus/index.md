@@ -14,18 +14,17 @@ In the box:
 
 * 1 x Reach M+ module
 
-* 1 x USB cable 
+* 1 x USB cable
 
 * 1 x USB-OTG cable
 
-* 1 x JST-GH 6-pin to jumper pin cable 
+* 1 x JST-GH 6-pin to jumper pin cable
 
 * 1 x JST-GH 5-pin to jumper pin cable
 
-Optionally: 
+Optionally:
 
-* 1 x Tallysman multi-GNSS antenna 
-
+* 1 x Tallysman multi-GNSS antenna
 
 ### Collaboration
 

@@ -1,14 +1,14 @@
 Welcome to your Emlid Reach RS2!
 
-  [![](img/reachrs2/Quickstart.png){: style="width: 200px;"} ](quickstart.md)
-  [![](img/reachrs2/Tutorials.png){: style="width: 200px;"}](tutorials.md)
-  [![](img/reachrs2/ReachView.png){: style="width: 200px;"}](common/reachview)
+  [![](img/reachrs2/quickstart.png){: style="width: 200px;"}](quickstart.md)
+  [![](img/reachrs2/tutorials.png){: style="width: 200px;"}](tutorials.md)
+  [![](img/reachrs2/reachview.png){: style="width: 200px;"}](common/reachview)
 
-  [![](img/reachrs2/Placement.png){: style="width: 200px;"} ](placement.md)
-  [![](img/reachrs2/Power-supply.png){: style="width: 200px;"}](power-supply.md)
-  [![](img/reachrs2/Specs.png){: style="width: 200px;"}](specs.md)
+  [![](img/reachrs2/placement.png){: style="width: 200px;"}](placement.md)
+  [![](img/reachrs2/power-supply.png){: style="width: 200px;"}](power-supply.md)
+  [![](img/reachrs2/specs.png){: style="width: 200px;"}](specs.md)
 
-### Package contents
+## Package contents
 
 In the box:
 

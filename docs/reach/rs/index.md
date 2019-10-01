@@ -1,14 +1,14 @@
-Welcome to your Emlid Reach RS / Reach RS+!
+Welcome to your Emlid Reach RS/RS+!
 
-  [![](img/reachrs/Quickstart.png){: style="width: 200px;"} ](quickstart/first-setup.md)
-  [![](img/reachrs/Tutorials.png){: style="width: 200px;"}](tutorials.md)
-  [![](img/reachrs/ReachView.png){: style="width: 200px;"}](common/reachview)
+  [![](img/reachrs/quickstart.png){: style="width: 200px;"}](quickstart/first-setup.md)
+  [![](img/reachrs/tutorials.png){: style="width: 200px;"}](tutorials.md)
+  [![](img/reachrs/reachview.png){: style="width: 200px;"}](common/reachview)
 
-  [![](img/reachrs/Placement.png){: style="width: 200px;"} ](placement.md)
-  [![](img/reachrs/Power-supply.png){: style="width: 200px;"}](power-supply.md)
-  [![](img/reachrs/Specs.png){: style="width: 200px;"}](specs.md)
+  [![](img/reachrs/placement.png){: style="width: 200px;"}](placement.md)
+  [![](img/reachrs/power-supply.png){: style="width: 200px;"}](power-supply.md)
+  [![](img/reachrs/specs.png){: style="width: 200px;"}](specs.md)
 
-### Package contents
+## Package contents
 
 In the box:
 
@@ -18,7 +18,7 @@ In the box:
 
 * 1 x Radio antenna
 
-* 1 x Adapter for survey pole ( 5/8'')
+* 1 x Adapter for survey pole ( 5/8 )
 
 * 1 x USB cable
 
